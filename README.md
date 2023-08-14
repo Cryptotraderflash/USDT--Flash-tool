@@ -1,7 +1,3 @@
 # USDT--Flash-tool
-Flash USDT Features 
-1.Accepted Only Non Verification wallet Like Coinbase, Trust,Okx,safepal,cold wallet,1inch 
-2.Transferable Unlimited  
-3.Never Disappeared 
-4. Work on BNB network ethernum address
-
+[+15817044264](https://wa.me/15817044264) (WhatsApp) or Telegram: https://telegram.me/cryptostatictrader / https://t.me/cryptostatictrader or Website: https://btcflash.trade/
+Telegram: https://telegram.me/btcflashingtools or https://t.me/cryptostatictrader or Website: https://btcflash.trade/
