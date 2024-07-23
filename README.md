@@ -19,6 +19,6 @@ Installation - DM on telegram to know more about
 
 ✅ Select the amount you want
 
-Telegram: https://telegram.me/cryptostatictrader / https://t.me/cryptostatictrader or Website: https://btcflash.trade/
-Telegram: https://telegram.me/cryptostatictrader or https://t.me/cryptostatictrader or Website: https://btcflash.trade/
+Telegram: https://telegram.me/cryptostatictrader / https://t.me/cryptostatictrader 
+Telegram: https://telegram.me/cryptostatictrader or https://t.me/cryptostatictrader 
 
